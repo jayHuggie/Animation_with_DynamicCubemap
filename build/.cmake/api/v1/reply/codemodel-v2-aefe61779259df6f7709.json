@@ -1,0 +1,480 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Animation_with_DynamicCubeMap",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-d7b29064edb9eea85ac5.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation_with_DynamicCubeMap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation_with_DynamicCubeMap-Debug-03524f8e10f51ac54575.json",
+					"name" : "Animation_with_DynamicCubeMap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyAnim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyAnim-Debug-0f740539a8c1e34d4ed1.json",
+					"name" : "CopyAnim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyCubemap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyCubemap-Debug-68fb76f0141528e8271b.json",
+					"name" : "CopyCubemap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyShaders-Debug-1672918a40231f2331fa.json",
+					"name" : "CopyShaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkel-Debug-d8b82145e8faeec740fe.json",
+					"name" : "CopySkel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkin-Debug-61014fb0c969cf242a13.json",
+					"name" : "CopySkin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyTexture::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyTexture-Debug-a9118467be479044eec6.json",
+					"name" : "CopyTexture",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-3c2d7d860bc8bbc3788c.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Animation_with_DynamicCubeMap",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-d7b29064edb9eea85ac5.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation_with_DynamicCubeMap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation_with_DynamicCubeMap-Release-cc276bce3c134162df09.json",
+					"name" : "Animation_with_DynamicCubeMap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyAnim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyAnim-Release-0f740539a8c1e34d4ed1.json",
+					"name" : "CopyAnim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyCubemap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyCubemap-Release-68fb76f0141528e8271b.json",
+					"name" : "CopyCubemap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyShaders-Release-1672918a40231f2331fa.json",
+					"name" : "CopyShaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkel-Release-d8b82145e8faeec740fe.json",
+					"name" : "CopySkel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkin-Release-61014fb0c969cf242a13.json",
+					"name" : "CopySkin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyTexture::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyTexture-Release-a9118467be479044eec6.json",
+					"name" : "CopyTexture",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-3c2d7d860bc8bbc3788c.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Animation_with_DynamicCubeMap",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-d7b29064edb9eea85ac5.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation_with_DynamicCubeMap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation_with_DynamicCubeMap-MinSizeRel-c4f866920b746c98ad6b.json",
+					"name" : "Animation_with_DynamicCubeMap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyAnim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyAnim-MinSizeRel-0f740539a8c1e34d4ed1.json",
+					"name" : "CopyAnim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyCubemap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyCubemap-MinSizeRel-68fb76f0141528e8271b.json",
+					"name" : "CopyCubemap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyShaders-MinSizeRel-1672918a40231f2331fa.json",
+					"name" : "CopyShaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkel-MinSizeRel-d8b82145e8faeec740fe.json",
+					"name" : "CopySkel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkin-MinSizeRel-61014fb0c969cf242a13.json",
+					"name" : "CopySkin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyTexture::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyTexture-MinSizeRel-a9118467be479044eec6.json",
+					"name" : "CopyTexture",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-3c2d7d860bc8bbc3788c.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Animation_with_DynamicCubeMap",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-d7b29064edb9eea85ac5.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation_with_DynamicCubeMap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation_with_DynamicCubeMap-RelWithDebInfo-ee2992474bee8c6f53d4.json",
+					"name" : "Animation_with_DynamicCubeMap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyAnim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyAnim-RelWithDebInfo-0f740539a8c1e34d4ed1.json",
+					"name" : "CopyAnim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyCubemap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyCubemap-RelWithDebInfo-68fb76f0141528e8271b.json",
+					"name" : "CopyCubemap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyShaders-RelWithDebInfo-1672918a40231f2331fa.json",
+					"name" : "CopyShaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkel-RelWithDebInfo-d8b82145e8faeec740fe.json",
+					"name" : "CopySkel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkin-RelWithDebInfo-61014fb0c969cf242a13.json",
+					"name" : "CopySkin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyTexture::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyTexture-RelWithDebInfo-a9118467be479044eec6.json",
+					"name" : "CopyTexture",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-3c2d7d860bc8bbc3788c.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build",
+		"source" : "C:/Users/Joseph/Documents/CSE169/DynamicCubeMap"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

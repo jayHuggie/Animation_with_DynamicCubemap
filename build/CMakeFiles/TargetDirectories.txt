@@ -1,0 +1,9 @@
+C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build/CMakeFiles/Animation_with_DynamicCubeMap.dir
+C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build/CMakeFiles/CopyShaders.dir
+C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build/CMakeFiles/CopySkel.dir
+C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build/CMakeFiles/CopySkin.dir
+C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build/CMakeFiles/CopyAnim.dir
+C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build/CMakeFiles/CopyCubemap.dir
+C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build/CMakeFiles/CopyTexture.dir
+C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build/CMakeFiles/ZERO_CHECK.dir

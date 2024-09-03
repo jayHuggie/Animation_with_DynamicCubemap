@@ -1,0 +1,10 @@
+^C:\USERS\JOSEPH\DOCUMENTS\CSE169\DYNAMICCUBEMAP\BUILD\CMAKEFILES\4C0ABA89FC8A2C168298411D994C874E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Joseph/Documents/CSE169/DynamicCubeMap -BC:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Joseph/Documents/CSE169/DynamicCubeMap/build/Animation_with_DynamicCubeMap.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

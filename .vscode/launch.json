@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Project",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "C:/Users/Joseph/Documents/CSE169/CSE169_Project1/build/Debug/menv.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "C:/Users/Joseph/Documents/CSE169/CSE169_Project1",
+            "environment": [],
+            "externalConsole": false
+        },
+
+    ]
+}

@@ -1,0 +1,5 @@
+C:/Users/Joseph/Downloads/cse169_starter_windows/out/build/x64-Debug/CMakeFiles/menv.dir
+C:/Users/Joseph/Downloads/cse169_starter_windows/out/build/x64-Debug/CMakeFiles/CopyShaders.dir
+C:/Users/Joseph/Downloads/cse169_starter_windows/out/build/x64-Debug/CMakeFiles/CopySkel.dir
+C:/Users/Joseph/Downloads/cse169_starter_windows/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Joseph/Downloads/cse169_starter_windows/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

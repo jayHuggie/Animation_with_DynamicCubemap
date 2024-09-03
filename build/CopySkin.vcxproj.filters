@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Joseph\Documents\CSE169\DynamicCubeMap\build\CMakeFiles\4c0aba89fc8a2c168298411d994c874e\CopySkin.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Joseph\Documents\CSE169\DynamicCubeMap\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Joseph\Documents\CSE169\DynamicCubeMap\build\CMakeFiles\CopySkin" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{15BDC39A-220B-33C4-9BC6-DD592ED2C056}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

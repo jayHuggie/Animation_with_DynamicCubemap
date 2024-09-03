@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "menv",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyShaders-Debug-68ac988151684ddb2d01.json",
+					"name" : "CopyShaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkel-Debug-82569090fb048349fc54.json",
+					"name" : "CopySkel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "menv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-menv-Debug-ee78794f56490c1b4b09.json",
+					"name" : "menv",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Joseph/Downloads/cse169_starter_windows/out/build/x64-Debug",
+		"source" : "C:/Users/Joseph/Downloads/cse169_starter_windows"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
