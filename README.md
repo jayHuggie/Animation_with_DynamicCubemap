@@ -1,4 +1,4 @@
-# Cloth Simulation
+# Animation with Dynamic Cubemap
 
 <img src="/scenes/cloth_video.gif" alt="scene_overview" title="scene_overview" width="1080"/>
 
@@ -50,11 +50,11 @@ This is a simulation of a cloth using particles, spring-dampers, and triangular 
 
 * Clone the repository.
 ```
-git clone https://github.com/jayHuggie/Cloth_Simulation.git
+git clone https://github.com/jayHuggie/Animation_with_DynamicCubemap.git
 ```
 * Navigate to the following directory:
 ```
-  Cloth_Simulation/build/Debug
+  DynamicCubeMap/build/Debug
 ```
 
-* Open “Cloth_Simulation.exe” to run the program!
+* Open “Animation_with_DynamicCubeMap.exe” to run the program!
