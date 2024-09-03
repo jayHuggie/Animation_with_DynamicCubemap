@@ -8,35 +8,35 @@ This is a simulation of a cloth using particles, spring-dampers, and triangular 
 
 
 * **Skeleton Loading and Visualization**
-    * Loads and visualizes a character skeleton from a .skel file, supporting 3-DOF rotational joints (ball-and-socket joints).
+    * Loads and visualizes a character skeleton from a `.skel` file, supporting 3-DOF rotational joints (ball-and-socket joints).
     * Performs forward kinematics to compute world space matrices for each joint.
-    * Allows flexible command line input for loading different .skel files, with a default fallback to test.skel.
+    * Allows flexible command line input for loading different `.skel` files.
 
-* **Spring-Damper System**
+* **Skinning and Shading**
+    * Attaches a character skin to the skeleton by loading from a `.skin` file.
+    * Implements basic shading with at least two colored lights to enhance visual realism.
+    * Provides interactive controls for adjusting the Degrees of Freedom (DOF) of the skeleton joints, either through keyboard input or a GUI-based approach.
 
-    Uses a spring-damper model to maintain the structural integrity of the cloth.
-    Adjustable spring constants to control the stiffness of the cloth.
-    Damping factor to regulate the oscillations and achieve a stable rest state.
+* **Keyframe Animation**
+    * Integrates keyframe animations by loading an `.anim` file and playing it back on the skinned character.
+    * Supports seamless integration of `.skel`, `.skin`, and `.anim` files via command line arguments, enabling various character and animation combinations.
 
-* **Aerodynamic Interactions**
+* **Static Cubemap - Skybox**
+    * Implements a static cubemap for environment mapping, creating a realistic skybox that enhances the sense of immersion.
+    * Utilizes the `GL_TEXTURE_CUBE_MAP` enum in OpenGL to load six 2D textures corresponding to each face of the cube, simulating a vast 3D environment.
 
-    Includes aerodynamic drag that affects the cloth’s movement in response to wind and other environmental factors.
-    Provides controls to adjust ambient wind speed, allowing for dynamic simulations of cloth under different wind conditions.
+* **Dynamic Cubemap - Real-Time Reflections**
+    * Generates dynamic cubemaps at runtime, allowing for real-time reflections on reflective or refractive surfaces like spheres.
+    * Renders the scene from six different perspectives (one for each face of the cube) by setting the camera along each positive and negative axis with a 90-degree field of view (FOV).
+    * Uses a framebuffer object to capture and store the rendered images for each face, which are then combined into a cubemap texture.
+    * Applies the cubemap texture during the final rendering pass to create realistic and responsive reflections, adapting to real-time environmental changes.
 
-* **Ground Plane Collision Handling**
+* **Basic Physically Based Rendering (PBR) Material**
+    * Implements a basic PBR material shader that calculates realistic lighting effects using parameters like albedo, metallic, roughness, and ambient occlusion.
+    * Integrates environmental reflections using a cubemap texture, allowing dynamic reflections on the material's surface.
+    * Uses the Fresnel-Schlick approximation to simulate realistic specular reflections, adjusting for different material properties.
+    * Supports multiple light sources with diffuse and specular components, enhancing the realism of rendered objects.
 
-    Simulates collisions between the cloth and a simple ground plane, ensuring the cloth reacts realistically upon impact.
-    Implements restitution and friction to model realistic ground interactions.
-
-* **Fixed Particles for Cloth Manipulation**
-
-    Allows certain particles in the cloth to be fixed in place to simulate various cloth-hanging scenarios (e.g., corners fixed to simulate a hanging flag).
-    User controls to manipulate the position of fixed particles, enabling real-time interaction and adjustment of the cloth’s configuration.
-
-* **Dynamic Normal Calculation and Shading**
-
-    Calculates triangle normals dynamically during each update for accurate physics simulation.
-    Implements dynamic smooth shading by averaging normals at vertices, enhancing the visual realism of the cloth.
 
 * **Real-Time User Interaction**
 
