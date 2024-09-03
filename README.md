@@ -1,8 +1,8 @@
 # Animation with Dynamic Cubemap
 
-<img src="/scenes/cloth_video.gif" alt="scene_overview" title="scene_overview" width="1080"/>
+<img src="/scenes/overview.gif" alt="scene_overview" title="scene_overview" width="1080"/>
 
-This is a simulation of a cloth using particles, spring-dampers, and triangular surfaces, developed with OpenGL for my CSE 169 (Computer Animation) course at UCSD.
+This is my Final Project, developed with OpenGL for my CSE 169 (Computer Animation) course at UCSD.
 
 ## Program Controls:
 
