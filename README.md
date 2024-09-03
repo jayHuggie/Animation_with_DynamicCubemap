@@ -4,6 +4,14 @@
 
 This is a simulation of a cloth using particles, spring-dampers, and triangular surfaces, developed with OpenGL for my CSE 169 (Computer Animation) course at UCSD.
 
+## Program Controls:
+
+* **Rotate Camera**: Mouse Click + Drag
+* **Pan Camera**: W/A/S/D
+* **Zooming**: 'Q' (closer) and 'E' (farther).
+* **Reset Camera**: 'R'
+
+
 # Features:
 
 
