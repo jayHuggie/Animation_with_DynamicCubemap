@@ -7,10 +7,11 @@ This is a simulation of a cloth using particles, spring-dampers, and triangular 
 # Features:
 
 
-* **Particle-Based Cloth Simulation**
+* **Skeleton Loading and Visualization**
 
-    Implements a cloth model using a system of particles, spring-dampers, and triangular surfaces.
-    Simulates realistic cloth behavior with forces such as uniform gravity, spring elasticity, damping, and aerodynamic drag.
+Loads and visualizes a character skeleton from a .skel file, supporting 3-DOF rotational joints (ball-and-socket joints).
+Performs forward kinematics to compute world space matrices for each joint.
+Allows flexible command line input for loading different .skel files, with a default fallback to test.skel.
 
 * **Spring-Damper System**
 
