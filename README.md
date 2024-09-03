@@ -1,8 +1,9 @@
 # Animation with Dynamic Cubemap
 
 <img src="/scenes/overview.gif" alt="scene_overview" title="scene_overview" width="1080"/>
+This is my final project for the CSE 169 (Computer Animation) course at UCSD, showcasing a character animation system with skeleton loading, skinning, and keyframe animation. It also includes static and dynamic cubemaps for environment mapping, real-time reflections, and basic Physically Based Rendering (PBR) materials, all developed with OpenGL and GLSL.
 
-This is my Final Project, developed with OpenGL for my CSE 169 (Computer Animation) course at UCSD.
+**Note**: The reflection using the dynamic cubemap is slightly off, but I will work on fixing it as soon as possible. I hope you enjoy!
 
 ## Program Controls:
 
