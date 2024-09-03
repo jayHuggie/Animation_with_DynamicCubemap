@@ -46,11 +46,6 @@ This is a simulation of a cloth using particles, spring-dampers, and triangular 
     * Supports multiple light sources with diffuse and specular components, enhancing the realism of rendered objects.
 
 
-* **Real-Time User Interaction**
-
-    Provides controls to adjust the position of fixed particles and influence the cloth's behavior in real time using **ImGui**.
-
-
 # Launching the Program
 
 * Clone the repository.
